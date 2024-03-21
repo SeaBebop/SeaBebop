@@ -7,11 +7,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seabebop&label=Profile%20views&color=0e75b6&style=flat" alt="seabebop" /> </p>
 
 # 💫About Me :
+
+<div float="left"style="display: flex; align-items: center;">
+
+<img align="left" height="200" style src="https://github.com/SeaBebop/SeaBebop/assets/54507045/3c804afd-6317-45f8-b208-b7912e96c226)"/>
+<div>
+<br>
+<br>
 🔭 Ever since I deployed <a href="https://github.com/SeaBebop/La-Patisserie-Du-Coeur">La Patisserie Du Coeur</a> on Google Cloud and Cloudflare...
 
+  
 🌱 I have been studying the Associate GCP Certificate Exam from day to night! I will pass it!
 
-📫 How to reach me MarcusBenoit07@gmail.com
+📫 How to reach me MarcusBenoit07@gmail.com</div>
+</div>
+
+<br>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marcus-benoit-9b9636199) 
@@ -27,6 +38,6 @@
 </div>
 <br>
 <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeaBebop&theme=maroongold&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeaBebop&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" style="max-width: 100%;">
 </div>
 </div>

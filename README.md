@@ -10,6 +10,7 @@
 
 <div float="left"style="display: flex; align-items: center;">
 
+
 <img align="left" height="200" style src="https://github.com/SeaBebop/SeaBebop/assets/54507045/3c804afd-6317-45f8-b208-b7912e96c226)"/>
 <div>
 <br>

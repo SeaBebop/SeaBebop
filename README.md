@@ -15,12 +15,12 @@
 <div>
 <br>
 <br>
-🔭 Ever since I deployed <a href="https://github.com/SeaBebop/La-Patisserie-Du-Coeur">La Patisserie Du Coeur</a> on Google Cloud and Cloudflare...
-
   
-🌱 I have been studying the Associate GCP Certificate Exam from day to night! I will pass it!
+- 🔭 Ever since I deployed <a href="https://github.com/SeaBebop/La-Patisserie-Du-Coeur">La Patisserie Du Coeur</a> on Google Cloud and Cloudflare...
+ 
+- 🌱 I have been studying the Associate GCP Certificate Exam from day to night! I will pass it!
 
-📫 How to reach me MarcusBenoit07@gmail.com</div>
+- 📫 How to reach me MarcusBenoit07@gmail.com</div>
 </div>
 
 <br>

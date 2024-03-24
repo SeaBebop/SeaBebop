@@ -20,7 +20,11 @@
  
 - 🌱 I have been studying the Associate GCP Certificate Exam from day to night! I will pass it!
 
-- 📫 How to reach me MarcusBenoit07@gmail.com</div>
+- 📫 How to reach me MarcusBenoit07@gmail.com
+
+- ☕ Interests: Fighting games, hanging out, anime and martial arts.
+  </div>
+
 </div>
 
 <br>

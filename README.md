@@ -1,6 +1,7 @@
 <h1 align="center">Welcome👋, I'm  SeaBebop</h1>
 <p align="center">
-<img style="width:100%" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54507045/314915097-e924b89b-f7f9-43fa-8a31-277e0c6167cf.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240321%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240321T030631Z&X-Amz-Expires=300&X-Amz-Signature=915970d9b8a64b3a9f6b9f8c1ac14871830cb9944973c0821f52f6fa39c32333&X-Amz-SignedHeaders=host&actor_id=54507045&key_id=0&repo_id=372094765">
+  
+<img src="https://github.com/SeaBebop/SeaBebop/assets/54507045/f788440b-225c-4d5a-9ce0-38fedf5d2eaf">
 </p>
 
 

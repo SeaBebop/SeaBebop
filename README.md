@@ -20,6 +20,8 @@
 - 🔭 Ever since I deployed <a href="https://github.com/SeaBebop/La-Patisserie-Du-Coeur">La Patisserie Du Coeur</a> on Google Cloud and Cloudflare...
  
 - 🌱 I have been studying the Associate GCP Certificate Exam from day to night! I will pass it!
+  - ✅ I passed it! Currently an official GCP Associate Cloud Engineer.
+  
 
 - 📫 How to reach me MarcusBenoit07@gmail.com
 

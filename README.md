@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I am Marcus Benoit</h1>
-<p align="center">
+
   <p align="center" ><strong>Comptia Trifecta (A+/Network+/Security+)  | GCP ACE |  LPI linux</strong></p> 
-  <br>
+<p align="center">
 WGU Cloud Computing student and aspiring Cloud Engineer relentlessly honing skills through self-built home labs that tackle production-grade challenges in networking, security, and scalable infrastructure.
 
 </p>

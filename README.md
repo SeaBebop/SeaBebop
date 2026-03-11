@@ -2,7 +2,7 @@
 
   <p align="center" ><strong>Comptia Trifecta (A+/Network+/Security+)  | GCP ACE |  LPI linux</strong></p> 
 <p align="center">
-WGU Cloud Computing student and aspiring Cloud Engineer relentlessly honing skills through self-built home labs that tackle production-grade challenges in networking, security, and scalable infrastructure.
+WGU Cloud Computing student and aspiring Cloud Engineer relentlessly honing skills through self-built home labs that aim tackle practical hands on challenges in networking, security, and scalable infrastructure.
 
 </p>
 

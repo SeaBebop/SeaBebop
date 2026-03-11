@@ -1,4 +1,4 @@
-<h1 align="center">Welcome👋, I'm  SeaBebop</h1>
+<h1 align="center">Hello there, I am Marcus Benoit</h1>
 <p align="center">
   
 <img src="https://github.com/SeaBebop/SeaBebop/assets/54507045/f788440b-225c-4d5a-9ce0-38fedf5d2eaf">

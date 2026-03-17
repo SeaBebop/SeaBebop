@@ -15,7 +15,11 @@ WGU Cloud Computing student and aspiring Cloud Engineer relentlessly honing skil
 ## Network Projects
 
 ## Cloud Projects
-
+[FullStack E-commerce Website AWS Deployed](https://github.com/SeaBebop/La-Patisserie-Du-Coeur)
+- [ ] **Deployed** – Live Demo (Site Currently Down)
+- [x] **Tested locally** – Works on my machine
+- [x] **CI/CD pipeline active**
+- [x] **Documentation updated**
 ## Machine Learning Projects
 <div>
 <br>

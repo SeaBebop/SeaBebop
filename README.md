@@ -15,29 +15,13 @@ WGU Cloud Computing student and aspiring Cloud Engineer relentlessly honing skil
 ## Network Projects
 
 ## Cloud Projects
+### [FullStack E-commerce Website AWS Deployed](https://github.com/SeaBebop/La-Patisserie-Du-Coeur) <br>
+[ ] **Deployed** – Live Demo (Site Currently Down)<br>
+[x] **Tested locally** – Works on my machine <br>
+[x] **CI/CD pipeline active**<br>
+[x] **Documentation updated**<br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/SeaBebop/La-Patisserie-Du-Coeur">
-        <img src="https://github.com/SeaBebop/La-Patisserie-Du-Coeur/assets/54507045/eab797dd-fef7-4b25-8b71-99455a2d704a" 
-             alt="La Patisserie Du Coeur Screenshot" 
-             width="100%" 
-             style="max-width: 600px; display: block; margin: 0 auto;">
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/SeaBebop/La-Patisserie-Du-Coeur">FullStack E-commerce Website AWS Deployed</a></strong></p>
-      <ul>
-        <li>[ ] <strong>Deployed</strong> – Live Demo (Site Currently Down)</li>
-        <li>[x] <strong>Tested locally</strong> – Works on my machine</li>
-        <li>[x] <strong>CI/CD pipeline active</strong></li>
-        <li>[x] <strong>Documentation updated</strong></li>
-      </ul>
-      <p><em>Built with Django REST API, ReactJS, Celery, Stripe, JWT auth, TailwindCSS, Docker. Persistent carts & purchase history.</em></p>
-    </td>
-  </tr>
-</table>
+
 ## Machine Learning Projects
 <div>
 <br>

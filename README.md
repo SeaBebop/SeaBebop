@@ -16,7 +16,7 @@ WGU Cloud Computing student and aspiring Cloud Engineer relentlessly honing skil
 ### [Wifi Heat Map](https://github.com/SeaBebop/Wifi-Heat-Map) <br>
 - [x] **Documentation updated**
 ## Cloud Projects
-### [FullStack E-commerce Website](https://github.com/SeaBebop/La-Patisserie-Du-Coeur) <br>
+### [E-commerce Fullstack (Previously AWS Deployed)](https://github.com/SeaBebop/La-Patisserie-Du-Coeur) <br>
 - [ ] **Deployed** – Live and accessible
 - [x] **Tested locally** – Works on my machine
 - [ ] **CI/CD pipeline active**

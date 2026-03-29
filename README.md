@@ -9,9 +9,10 @@ WGU Cloud Computing student and aspiring Cloud Engineer relentlessly honing skil
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seabebop&label=Profile%20views&color=0e75b6&style=flat" alt="seabebop" /> </p>
 
-## Cybersecurity Projects
-<div float="left"style="display: flex; align-items: center;">
-
+  ## Cybersecurity Projects
+### [Splunk SIEM Home Lab](https://github.com/SeaBebop/Splunk-SIEM-Home-Lab)  <br>
+- [x] **Documentation updated**
+- [x] **Tested locally** – Works on my machine
 ## Network Projects
 ### [Wifi Heat Map](https://github.com/SeaBebop/Wifi-Heat-Map) <br>
 - [x] **Documentation updated**
@@ -23,8 +24,7 @@ WGU Cloud Computing student and aspiring Cloud Engineer relentlessly honing skil
 - [x] **Documentation updated**
 
 
-## Machine Learning Projects
-<div>
+</div>
 <br>
 <br>
   

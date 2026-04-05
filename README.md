@@ -10,7 +10,7 @@ WGU Cloud Computing student and aspiring Cloud Engineer relentlessly honing skil
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seabebop&label=Profile%20views&color=0e75b6&style=flat" alt="seabebop" /> </p>
 
   ## Cybersecurity Projects
-### [Splunk SIEM Home Lab](https://github.com/SeaBebop/Splunk-SIEM-Home-Lab)  <br>
+### [Splunk SIEM Detection Lab: MITRE ATT&CK Simulations with Atomic Red Team](https://github.com/SeaBebop/Splunk-SIEM-Home-Lab)  <br>
 - [x] **Documentation updated**
 - [x] **Tested locally** – Works on my machine
 ## Network Projects
